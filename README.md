@@ -6,7 +6,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 ## Teknistä tietoa
 
-- [Sähköautot.info]https://xn--shkautot-0za6p.info/ajoneuvot/skoda/enyaq
+- [Sähköautot.info](https://xn--shkautot-0za6p.info/ajoneuvot/skoda/enyaq)
 
 ## Aiheita
 
