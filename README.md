@@ -23,6 +23,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 #### Muu softaan liittyvä
 
+- [Car Scanner](https://www.carscanner.info/) - diagnostiikka
 - [OBDeleven](https://obdeleven.com/) - diagnostiikka ja säätäminen
 - [Skodan liittäminen Home Assistanttiin](https://github.com/back-2-95/skoda-enyaq-fi/wiki/Home-Assistant)
 
