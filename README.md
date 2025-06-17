@@ -9,6 +9,13 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 - Autotalo Amppeerin [Sähköautotietoa](https://www.autotaloampeeri.fi/sahkoautotietoa/) 
 - [Sähköautot.info](https://xn--shkautot-0za6p.info/ajoneuvot/skoda/enyaq)
 
+## Keskusteluryhmät
+
+- [r/Škoda](https://discord.gg/BYQSVnHUh7) Discordissa 🇬🇧
+- [r/SkodaEnyaq](https://www.reddit.com/r/SkodaEnyaq/) Redditissä 🇬🇧
+- [Skoda Enyaq & Elroq Finland](https://www.facebook.com/groups/613981782753087) Facebookissa 🇫🇮
+- [Škoda EV Lounge](https://www.facebook.com/groups/skodaevlounge) Facebookissa 🇬🇧
+
 ## Aiheita
 
 ### Softaan liittyviä juttuja
