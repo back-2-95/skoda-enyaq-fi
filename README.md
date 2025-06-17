@@ -6,6 +6,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 ## Teknistä tietoa
 
+- Autotalo Amppeerin [Sähköautotietoa](https://www.autotaloampeeri.fi/sahkoautotietoa/) 
 - [Sähköautot.info](https://xn--shkautot-0za6p.info/ajoneuvot/skoda/enyaq)
 
 ## Aiheita
