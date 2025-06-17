@@ -16,6 +16,10 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 #### 5.x
 
+#### Muu softaan liittyvä
+
+- Skodan liittäminen Home Assistanttiin TODO
+
 ### Sekalaista miten-teen-mitäkin
 
 - [Takapenkin irrottaminen](https://github.com/back-2-95/skoda-enyaq-fi/wiki/Takapenkin-irrottaminen) TODO
