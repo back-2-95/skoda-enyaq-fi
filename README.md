@@ -6,6 +6,20 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 ## Aiheita
 
-- Softaan liittyviä juttuja
-- Sekalaista miten-teen-mitäkin 
-- Tuning
+### Softaan liittyviä juttuja
+
+#### 2.x
+
+#### 3.x
+
+#### 4.x
+
+#### 5.x
+
+### Sekalaista miten-teen-mitäkin
+
+- Takapenkin irrottaminen TODO
+
+### Tuning
+
+- [Kopacek](https://www.kopacek.com/fi/skoda/enyaq/)
