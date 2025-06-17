@@ -18,7 +18,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 ### Sekalaista miten-teen-mitäkin
 
-- Takapenkin irrottaminen TODO
+- [Takapenkin irrottaminen](https://github.com/back-2-95/skoda-enyaq-fi/wiki/Takapenkin-irrottaminen) TODO
 
 ### Tuning
 
