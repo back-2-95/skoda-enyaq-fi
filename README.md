@@ -18,7 +18,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 #### Muu softaan liittyvä
 
-- Skodan liittäminen Home Assistanttiin TODO
+- [Skodan liittäminen Home Assistanttiin](https://github.com/back-2-95/skoda-enyaq-fi/wiki/Home-Assistant)
 
 ### Sekalaista miten-teen-mitäkin
 
