@@ -8,6 +8,7 @@ Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitu
 
 - Autotalo Amppeerin [Sähköautotietoa](https://www.autotaloampeeri.fi/sahkoautotietoa/) 
 - [Sähköautot.info](https://xn--shkautot-0za6p.info/ajoneuvot/skoda/enyaq)
+- [erWin](https://skoda.erwin-store.com/erwin/showHome.do) sähköiset korjaustiedot
 
 ## Keskusteluryhmät
 
