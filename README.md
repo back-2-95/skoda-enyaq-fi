@@ -1,8 +1,8 @@
-# Skoda Enyaq infoa
+# Skoda Enyaq Infoa 🇫🇮
 
 Yritetään taltioida infoa, joka hukkuu Facebookin ja muiden alustojen viestitulvaan.
 
-![banneri.jpg](kuvat/banneri.jpg)
+![banneri.jpg](kuvat/banneri-tekstilla.jpg)
 
 ## Teknistä tietoa
 
